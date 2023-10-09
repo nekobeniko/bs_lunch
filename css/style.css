@@ -1,0 +1,15 @@
+.navbar-brand img {
+    width:100px;
+}
+.btn-big { 
+    padding:20px 40px; 
+    font-size:1.4rem;
+    border-radius: 0.5rem;
+}
+.card-menu {
+    background:rgba(255, 153, 0, 0.637);
+    color:#fff;
+}
+footer .card-img-overlay {
+    background: rgba(0,0,0,0.7);
+}
